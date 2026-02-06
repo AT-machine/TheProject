@@ -39,7 +39,8 @@ yesBtn.addEventListener("click", () => {
             font-family: Arial, sans-serif;
             text-align: center;
         ">
-            <h1>YAYYY 💘🥹<br>Happy Valentine’s Day 💕</h1>
+            <h1>YAYYY ⛰️🥹<br>We are going to have a lot of FUNNN⛰️</h1>
         </div>
     `;
 });
+
